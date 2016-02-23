@@ -18,7 +18,7 @@ TARGET_BOOTLOADER_BOARD_NAME := flo
 TARGET_BOOTLOADER_NAME := flo
 TARGET_BOARD_INFO_FILE := device/asus/flocaf/board-info.txt
 
-BOARD_HAL_STATIC_LIBRARIES := libdumpstate.flo
+BOARD_HAL_STATIC_LIBRARIES := libdumpstate.flocaf
 
 TARGET_RELEASETOOLS_EXTENSIONS := device/asus/flocaf
 
