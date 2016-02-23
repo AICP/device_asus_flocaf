@@ -44,7 +44,7 @@ BLUETOOTH_HCI_USE_MCT := true
 TARGET_NO_RADIOIMAGE := true
 TARGET_BOARD_PLATFORM := msm8960
 
-BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/asus/flo/bluetooth
+BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/asus/flocaf/bluetooth
 
 # FIXME: HOSTAPD-derived wifi driver
 BOARD_HAS_QCOM_WLAN := true
@@ -116,7 +116,7 @@ USE_DEVICE_SPECIFIC_CAMERA:= true
 
 HAVE_ADRENO_SOURCE:= false
 
-BOARD_SEPOLICY_DIRS += device/asus/flo/sepolicy
+BOARD_SEPOLICY_DIRS += device/asus/flocaf/sepolicy
 
 # Enable Minikin text layout engine (will be the default soon)
 USE_MINIKIN := true
