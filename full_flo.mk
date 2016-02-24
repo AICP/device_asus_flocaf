@@ -15,4 +15,4 @@
 #
 $(call inherit-product, device/asus/flocaf/aosp_flo.mk)
 
-PRODUCT_NAME := full_flo
+PRODUCT_NAME := full_flocaf
