@@ -22,7 +22,7 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 
 PRODUCT_NAME := aosp_flo
-PRODUCT_DEVICE := flo
+PRODUCT_DEVICE := flocaf
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := AOSP on Flo
 PRODUCT_MANUFACTURER := ASUS
