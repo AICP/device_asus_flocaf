@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+TARGET_OTA_ASSERT_DEVICE := flocaf,flo
+
 TARGET_BOOTLOADER_BOARD_NAME := flo
 TARGET_BOOTLOADER_NAME := flo
 TARGET_BOARD_INFO_FILE := device/asus/flocaf/board-info.txt
