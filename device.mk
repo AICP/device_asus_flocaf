@@ -28,7 +28,7 @@ PRODUCT_COPY_FILES += \
     device/asus/flocaf/init.flo.rc:root/init.flo.rc
 
 PRODUCT_PACKAGES += \
-    camera.flo
+    camera.flocaf
 
 # NFC
 PRODUCT_PACKAGES += \
